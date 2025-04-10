@@ -1,0 +1,17 @@
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+body {
+    background-image: url('https://c4.wallpaperflare.com/wallpaper/5/528/863/lightning-thunder-sky-lightning-strikes-wallpaper-preview.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+  
+.bgopacity{
+  opacity: 0;
+}
+
+.forecastbg{
+  background-color: red!important;
+}
